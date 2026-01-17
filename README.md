@@ -1,5 +1,4 @@
 ### Hi I'm Ali 😊 
-![Profile views](https://gpvc.arturio.dev/Alawi93)  
 
 ### Current Work | `Pathfinding &  Sorting Algorithm`
 <br>
